@@ -4,10 +4,10 @@ Developed an interactive Power BI dashboard to track sales, profit trends, and r
 
 ## Project Objectives
 
-Analyze overall sales and return performance
+1. Analyze overall sales and return performance
 
-Identify high-return products and categories
+2. Identify high-return products and categories
 
-Measure revenue, profit, and return impact
+3. Measure revenue, profit, and return impact
 
-Support business decisions using visual insights
+4. Support business decisions using visual insights
