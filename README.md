@@ -29,6 +29,13 @@ Developed an interactive Power BI dashboard to track sales, profit trends, and r
 
 7.Time-based trends (Monthly / Yearly)
 
+## Dashboard
+
+### Overview Dashboard
+<img width="1289" height="716" alt="image" src="https://github.com/user-attachments/assets/9c41f50d-5ac5-42d0-8460-693f2d49071c" />
+
+
+
 
 ## Tools & Technologies
 
