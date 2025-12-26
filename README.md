@@ -12,6 +12,21 @@ Developed an interactive Power BI dashboard to track sales, profit trends, and r
 
 4. Support business decisions using visual insights
 
+## 📂 Dataset Information
+
+The dataset used in this project was provided by my instructor as part of a Business Intelligence training program.
+It represents a retail sales scenario containing sales and product return data used for analytical and learning purposes.
+
+The dataset includes:
+- Order details
+- Product information
+- Category details
+- Sales amount
+- Return-related data
+- Date fields for time-based analysis
+
+The original data source is not specified, and the dataset is used strictly for educational and portfolio purposes.
+x`
 
 ## Key KPIs & Metrics Used
 
@@ -34,7 +49,11 @@ Developed an interactive Power BI dashboard to track sales, profit trends, and r
 ### Overview Dashboard
 <img width="1289" height="716" alt="image" src="https://github.com/user-attachments/assets/9c41f50d-5ac5-42d0-8460-693f2d49071c" />
 
+### Return analysis
+<img width="1295" height="721" alt="image" src="https://github.com/user-attachments/assets/ff8cf2fa-7df5-40ff-96fb-fdbafc6788d4" />
 
+### Operation Dashboard
+<img width="1294" height="722" alt="image" src="https://github.com/user-attachments/assets/a599f749-d3b5-47f6-b1c0-9755d8c1ea27" />
 
 
 ## Tools & Technologies
